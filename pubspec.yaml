@@ -1,0 +1,21 @@
+name: report_export
+description: Exportacao de relatorios tabulares em CSV e PDF para Flutter, com separacao entre montagem do documento e entrega ao sistema.
+version: 0.1.0
+publish_to: none
+
+environment:
+  sdk: ^3.8.0
+  flutter: ">=3.32.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  csv: ^6.0.0
+  pdf: ^3.11.0
+  printing: ^5.13.0
+  share_plus: ^11.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
