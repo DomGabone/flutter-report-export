@@ -13,7 +13,7 @@ dependencies:
   csv: ^6.0.0
   pdf: ^3.11.0
   printing: ^5.13.0
-  share_plus: ^11.0.0
+  share_plus: ^13.3.0
 
 dev_dependencies:
   flutter_test:
