@@ -10,3 +10,5 @@ pubspec.lock
 coverage/
 example/build/
 example/.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
