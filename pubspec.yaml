@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  csv: ^6.0.0
+  csv: ^8.0.0
   pdf: ^3.11.0
   printing: ^5.13.0
   share_plus: ^11.0.0
